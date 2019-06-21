@@ -6,6 +6,9 @@ import android.view.KeyEvent;
 import android.view.Window;
 import android.webkit.WebView;
 
+/**
+ * A simple app that uses webview.
+ * */
 public class MainActivity extends AppCompatActivity {
     private static final String url = "https://wasdlabs.com/";
     private WebView webView;
